@@ -1,1 +1,5 @@
 /nbproject/*
+/sites/default/files/
+!/sites/default/files/translations
+!/sites/default/files/.ht.sqlite
+!/sites/default/files/.htaccess
